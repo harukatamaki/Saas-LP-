@@ -191,7 +191,7 @@ body {
 .pro-wrap__con__block__txt__1 p {
   font-weight: 400;
   line-height: 1.8;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 .pro-wrap__con__block__txt__2 {
@@ -229,7 +229,7 @@ body {
 .pro-wrap__con__block__txt__2 p {
   font-weight: 400;
   line-height: 1.8;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 .pro-wrap__con__block__txt__3 {
@@ -265,7 +265,7 @@ body {
 .pro-wrap__con__block__txt__3 p {
   font-weight: 400;
   line-height: 1.8;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 .pro-wrap__con__img {
@@ -367,7 +367,7 @@ body {
 }
 
 .fea-wrap__con__block__txt p {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.8;
   margin-top: 6.5%;
@@ -456,7 +456,7 @@ body {
 
 .pri-wrap__con__block__fea__list__item {
   line-height: 2;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 .__center {
@@ -548,7 +548,7 @@ body {
 }
 
 .voi-wrap__con__block__txt p {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.8;
 }
@@ -583,7 +583,7 @@ body {
 
 .faq-wrap__con__block__top__txt p {
   color: #fff;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 500;
 }
 
@@ -619,7 +619,7 @@ body {
 }
 
 .faq-wrap__con__block__bottom p {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 400;
 }
 
@@ -645,7 +645,7 @@ body {
 
 .con-wrap__ttl p {
   color: #f11515;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 400;
   margin-bottom: 5%;
 }
